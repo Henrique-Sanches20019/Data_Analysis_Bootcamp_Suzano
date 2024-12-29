@@ -1,2 +1,18 @@
 # Data_Analysis_Bootcamp_Suzano
 This repository contains all the projects realized during the Power BI data analysis bootcamp offered by Suzano at the DIO platform.
+
+All projects descriptions:
+
+E-Commerce_Diagram Project: diagrama EER para funcionamento de um app e-commerce.
+
+Oficina_Diagram: diagrama EER para funcionamento de um app de uma oficina mecânica.
+                Requisitos:
+              
+                - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
+                - Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas
+                - Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega.
+                - A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão-de-obra
+                - O valor de cada peça também irá compor a OSO cliente autoriza a execução dos serviços
+                - A mesma equipe avalia e executa os serviços
+                - Os mecânicos possuem código, nome, endereço e especialidade
+                - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos

@@ -1,17 +1,19 @@
 # Data_Analysis_Bootcamp_Suzano
-This repository contains all the projects realized during the Power BI data analysis bootcamp offered by Suzano at the DIO platform.
+This repository contains all the projects realized during the Power BI data analysis bootcamp offered by Suzano at the DIO platform. If you scroll down you can see the descriptions for each one of the projects added to this repository.
 
-All projects descriptions:
+### E-Commerce_Diagram Project
+EER diagram for the operation of an e-commerce app.
 
-E-Commerce_Diagram Project: diagrama EER para funcionamento de um app e-commerce.
+### Oficina_Diagram Project
+EER diagram for the operation of an automotive repair shop app.
 
-Oficina_Diagram: diagrama EER para funcionamento de um app de uma oficina mecânica.
-Requisitos:
-                - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
-                - Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas
-                - Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega.
-                - A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão-de-obra
-                - O valor de cada peça também irá compor a OSO cliente autoriza a execução dos serviços
-                - A mesma equipe avalia e executa os serviços
-                - Os mecânicos possuem código, nome, endereço e especialidade
-                - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos
+Requirements:
+
+    - System for controlling and managing the execution of work orders in an auto repair shop
+    - Customers bring vehicles to the repair shop for repairs or periodic maintenance
+    - Each vehicle is assigned to a team of mechanics who identify the services to be performed and fill out a work order (WO) with a delivery date 
+    - Based on the WO, the cost of each service is calculated by consulting a reference table for labor
+    - The cost of each part will also be included in the WO. The customer approves the execution of the services
+    - The same team evaluates and performs the services
+    - Mechanics have a code, name, address, and specialty
+    - Each WO includes: number, issuance date, value, status, and a completion date for the work

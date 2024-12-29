@@ -6,8 +6,7 @@ All projects descriptions:
 E-Commerce_Diagram Project: diagrama EER para funcionamento de um app e-commerce.
 
 Oficina_Diagram: diagrama EER para funcionamento de um app de uma oficina mecânica.
-                Requisitos:
-              
+Requisitos:
                 - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
                 - Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas
                 - Cada veículo é designado a uma equipe de mecânicos que identifica os serviços a serem executados e preenche uma OS com data de entrega.

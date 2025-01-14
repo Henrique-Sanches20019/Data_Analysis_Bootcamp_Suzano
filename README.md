@@ -1,11 +1,11 @@
 # Data_Analysis_Bootcamp_Suzano
 This repository contains all the projects realized during the Power BI data analysis bootcamp offered by Suzano at the DIO platform. If you scroll down you can see the descriptions for each one of the projects added to this repository.
 
-### E-Commerce_Diagram Project
-EER diagram for the operation of an e-commerce app.
+### E-Commerce_Project
+EER diagram for the operation of an e-commerce app and code in MySQL for that same project, based on the diagram.
 
-### Oficina_Diagram Project
-EER diagram for the operation of an automotive repair shop app.
+### Oficina_Project
+EER diagram for the operation of an automotive repair shop app and code in MySQL for that same project, based on the diagram.
 
 Requirements:
 

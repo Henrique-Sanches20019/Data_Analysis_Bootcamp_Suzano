@@ -17,3 +17,6 @@ Requirements:
     - The same team evaluates and performs the services
     - Mechanics have a code, name, address, and specialty
     - Each WO includes: number, issuance date, value, status, and a completion date for the work
+
+### Financial_Sample_Project
+Power BI dashboard analysing sales and profit by country, product and segment, using the dataset attached to the project. The link to the dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiODk2YTk1ZWQtNjYzMC00ZGIwLTg2NjAtMDVmZTI0NTMwNTRiIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).

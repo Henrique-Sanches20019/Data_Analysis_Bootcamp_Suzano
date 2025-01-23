@@ -19,4 +19,6 @@ Requirements:
     - Each WO includes: number, issuance date, value, status, and a completion date for the work
 
 ### Financial_Sample_Project
-Power BI dashboard analysing sales and profit by country, product and segment, using the dataset attached to the project. The link to the dashboard is available [here](https://app.powerbi.com/view?r=eyJrIjoiODk2YTk1ZWQtNjYzMC00ZGIwLTg2NjAtMDVmZTI0NTMwNTRiIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).
+Power BI dashboard analysing sales and profit by country, product and segment, using the dataset attached to the project. The link to the report is available [here](https://app.powerbi.com/view?r=eyJrIjoiODk2YTk1ZWQtNjYzMC00ZGIwLTg2NjAtMDVmZTI0NTMwNTRiIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).
+
+As a second project for the DIO bootcamp, I've created a more detailed report using Power BI for the Financial Sample Project. You can check the new report [here](https://app.powerbi.com/view?r=eyJrIjoiNGE5YzU0NjUtZWI0OS00ZDcxLTgyMWEtMjM2NDVjOWI3ZDQwIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).

@@ -24,4 +24,4 @@ Power BI report analysing sales and profit by country, product and segment, usin
 As a second project for the DIO bootcamp, I've created a more detailed report using Power BI for the Financial Sample Project. You can check the new report [here](https://app.powerbi.com/view?r=eyJrIjoiNGE5YzU0NjUtZWI0OS00ZDcxLTgyMWEtMjM2NDVjOWI3ZDQwIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).
 
 ### Company_Project
-After cleaning and transforming the data from the Company_Project database, I've created a simple Power BI report for this project which you can see [here](https://app.powerbi.com/view?r=eyJrIjoiMjMyY2IzMmMtMWYxNy00Njg2LTk2ZDUtNGU2MjJjYzBmZDI0IiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).
+After cleaning and transforming the data from the Company_Project database (a database created during the bootcamp), I've created a simple Power BI report for this project which you can see [here](https://app.powerbi.com/view?r=eyJrIjoiMjMyY2IzMmMtMWYxNy00Njg2LTk2ZDUtNGU2MjJjYzBmZDI0IiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).

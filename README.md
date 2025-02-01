@@ -23,5 +23,18 @@ Power BI report analysing sales and profit by country, product and segment, usin
 
 As a second project for the DIO bootcamp, I've created a more detailed report using Power BI for the Financial Sample Project. You can check the new report [here](https://app.powerbi.com/view?r=eyJrIjoiNGE5YzU0NjUtZWI0OS00ZDcxLTgyMWEtMjM2NDVjOWI3ZDQwIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).
 
+As requested for the two final projects for the DIO bootcamp, I've recreated the report for the Financial_Sample_Project in two different ways using Power BI. To check the new final projects you can access the following links:
+- [Version 1](https://app.powerbi.com/view?r=eyJrIjoiZDk3ZGFmZTYtNmMxZC00MjIzLWFmZjAtYmFjMTc4NjM3NjBhIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9)
+- [Version 2](https://app.powerbi.com/view?r=eyJrIjoiNDU5MThhM2UtYzVmNi00NzI5LWFiZWYtZmQ4MmJjNWRjZTIzIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9)
+
 ### Company_Project
 After cleaning and transforming the data from the Company_Project database (a database created during the bootcamp), I've created a simple Power BI report for this project which you can see [here](https://app.powerbi.com/view?r=eyJrIjoiMjMyY2IzMmMtMWYxNy00Njg2LTk2ZDUtNGU2MjJjYzBmZDI0IiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).
+
+### Data_Cleaning_Project
+For this project I used the Company_Project database and, through Power Query, I cleaned and trasnformed the data to be used in a report.
+
+### University_Project
+The University_Project consists in a Star Schema diagram created from an university database EER diagram built by the DIO bootcamp instructor.
+
+### DAX_Project
+In this project I used Power Query and Power BI to create a Star Schema project based on the Financial_Sample table, also using DAX to create the Time table.

@@ -30,9 +30,6 @@ As requested for the two final projects for the DIO bootcamp, I've recreated the
 ### Company_Project
 After cleaning and transforming the data from the Company_Project database (a database created during the bootcamp), I've created a simple Power BI report for this project which you can see [here](https://app.powerbi.com/view?r=eyJrIjoiMjMyY2IzMmMtMWYxNy00Njg2LTk2ZDUtNGU2MjJjYzBmZDI0IiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).
 
-### Data_Cleaning_Project
-For this project I used the Company_Project database and, through Power Query, I cleaned and trasnformed the data to be used in a report.
-
 ### University_Project
 The University_Project consists in a Star Schema diagram created from an university database EER diagram built by the DIO bootcamp instructor.
 
